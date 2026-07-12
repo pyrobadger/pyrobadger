@@ -55,22 +55,6 @@ A production-grade SaaS platform that enables users to process PDF documents dir
 
 ---
 
-🛠️ **Built With**
-
-- 🚀 Node.js
-- 🔷 TypeScript
-- ⚡ Express.js
-- 🐘 PostgreSQL
-- 🟢 Supabase
-- 📚 pdf-lib
-- 🖥️ LibreOffice
-- 🤖 GitHub Actions
-- ☁️ DigitalOcean
-- ▲ Vercel
-
-
----
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

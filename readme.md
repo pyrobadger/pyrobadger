@@ -29,7 +29,7 @@ A production-grade SaaS platform that enables users to process PDF documents dir
 
 🔗 **Links**
 
-🌐 **Live Demo:** [quickpdfassistant.in](https://quickpdfassistant.in)
+🌐 **Live:** [quickpdfassistant.in](https://quickpdfassistant.in)
 
 📂 **Repository:** [QuickPDF Assistant](https://github.com/pyrobadger/QuickPDF-Assistant)
 

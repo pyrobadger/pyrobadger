@@ -35,8 +35,8 @@ A production-grade SaaS platform that enables users to process PDF documents dir
 
 ### 📊 Impact
 
-- 👥 **80+ Active Users**
-- 📄 **934+ Documents Processed**
+- 👥 **90+ Active Users**
+- 📄 **1000+ Documents Processed**
 - 💬 **4,600+ WhatsApp Message Interactions**
 - ⚡ Thousands of successful document processing operations
 - 🚀 End-to-end product built, deployed, and maintained by a solo developer

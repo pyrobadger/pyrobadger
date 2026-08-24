@@ -1,23 +1,9 @@
 
-<h1 align="center">Hey, I'm Aditya 👋</h1>
+<h1 align="center">Hey, I'm Aditya!</h1>
 
-<p align="center">
-Go beyond, Plus Ultra!
-</p>
+🎓 CompSci Student
 
----
-
-## 🚀 About Me
-
-🎓 Computer Science Engineering Student
-
-👨‍💻 Passionate about Backend Development, AI, and Data Engineering
-
-🎨 I enjoy building products from idea → deployment → real users
-
-💭 Currently learning Data Engineering
-
-🎯 Goal: Become a Data Engineer 
+🖥️ I enjoy developing products/tools for people to use, often for free!
 
 ---
 
@@ -27,33 +13,20 @@ Go beyond, Plus Ultra!
 
 A production-grade SaaS platform that enables users to process PDF documents directly through **WhatsApp**, making document management as simple as sending a message.
 
-🔗 **Links**
-
 🌐 **Live:** [quickpdfassistant.in](https://quickpdfassistant.in)
 
 📂 **Repository:** [QuickPDF Assistant](https://github.com/pyrobadger/QuickPDF-Assistant)
 
 ### 📊 Impact
 
-- 👥 **90+ Active Users**
-- 📄 **1000+ Documents Processed**
+- 👥 **100+ Active Users**
+- 📄 **1100+ Documents Processed**
 - 💬 **4,600+ WhatsApp Message Interactions**
 - ⚡ Thousands of successful document processing operations
 - 🚀 End-to-end product built, deployed, and maintained by a solo developer
 
 ---
 
-✨ **What it does**
-
-- 📎 Merge PDFs
-- ✂️ Split PDFs
-- 🗜️ Compress PDFs
-- 🖼️ Convert Images ↔ PDF
-- 📄 Convert Office Documents ↔ PDF
-- 🤖 Chat-based document processing
-- ☁️ Cloud deployment with automated workflows
-
----
 
 ## 💻 Tech Stack
 

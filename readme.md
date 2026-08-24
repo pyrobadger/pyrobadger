@@ -1,6 +1,4 @@
 
-<h1 align="center">Hey, I'm Aditya!</h1>
-
 🎓 CompSci Student
 
 🖥️ I enjoy developing products/tools for people to use, often for free!
